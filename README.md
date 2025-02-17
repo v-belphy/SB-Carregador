@@ -23,3 +23,7 @@ O programa possui 100 de tamanho.
 O primeiro bloco tem como endereço inicial 100 e 50 de tamanho, ou seja, endereco final 149.
 O segundo bloco, começa em 200 e tem 100 de tamanho, terminando em 299.
 Logo, o programa será armazenado no segundo bloco e irá informar que está armazenado no endereço 200 até 299.
+
+Observação:
+
+Caso tenha problema ligando o programa, instale o pacote gcc de 32 bits (gcc-multilib)
