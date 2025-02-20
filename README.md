@@ -4,7 +4,8 @@ Para compilar, basta digitar `make`.
 
 Após isso, para rodar, digite o comando `./carregador` seguido pelos parâmetros.
 
-O primeiro parâmetro é necessário e constitui o tamanho de memória que o programa a ser carregado possui.
+O primeiro parâmetro é necessário e constitui o tamanho de memória que o programa a ser carregado possui
+(tamanho maior que 0).
 
 Os seguintes parâmetros determinam um bloco de memória disponível, sendo passados em pares nos parâmetros,
 o primeiro elemento do par é o endereço inicial do bloco e o segundo elemento é o tamanho do bloco.
