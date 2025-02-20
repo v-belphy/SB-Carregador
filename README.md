@@ -1,4 +1,4 @@
-Projeto de Software Básico (SB) o qual tem como objetivo simular um carregador de arquivos.
+Projeto de Software Básico (SB) da Universidade de Brasília (UnB) o qual tem como objetivo simular um carregador de arquivos.
 
 Para compilar, basta digitar `make`.
 
